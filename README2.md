@@ -127,8 +127,8 @@ python scripts/03_analysis.py
 
 ## 📧 Contact
 
-- **작성자**: [이름]
-- **이메일**: [이메일]
+- **작성자**: 이창규
+- **이메일**: argo3997@gmail.com
 - **LinkedIn**: [LinkedIn URL]
 - **GitHub**: [GitHub URL]
 
