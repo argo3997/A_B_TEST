@@ -128,10 +128,9 @@ python scripts/03_analysis.py
 ## 📧 Contact
 
 - **작성자**: 이창규
-- **이메일**: argo3997@gmail.com
-- **LinkedIn**: [LinkedIn URL]
-- **GitHub**: [GitHub URL]
+- **이메일**: argo3997@naver.com
+- **LinkedIn**: https://www.linkedin.com/in/changkyu-lee-26314536a/
+- **GitHub**: https://github.com/argo3997/A_B_TEST
 
 ---
-
 *이 프로젝트는 포트폴리오 목적으로 시뮬레이션 데이터를 사용하여 제작되었습니다.*
