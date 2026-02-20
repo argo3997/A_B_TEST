@@ -1,0 +1,31 @@
+{
+    "version": "1.0.0",
+    "base-theme": "smooth",
+    "styles": {
+        "all": {
+            "font-family": "Tableau Regular"
+        },
+        "tooltip": {
+            "font-size": 14
+        },
+        "worksheet": {
+            "font-family": "Tableau Regular",
+            "font-size": 14
+        },
+        "worksheet-title": {
+            "font-family": "맑은 고딕",
+            "font-size": 18
+        },
+        "dashboard-title": {
+            "font-family": "맑은 고딕",
+            "font-size": 22,
+            "font-weight": "bold"
+        },
+        "story-title": {
+            "font-family": "맑은 고딕"
+        },
+        "view": {
+            "background-color": "#00000000"
+        }
+    }
+}
